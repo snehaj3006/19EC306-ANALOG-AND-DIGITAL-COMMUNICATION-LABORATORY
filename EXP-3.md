@@ -24,15 +24,18 @@ Note: Keep the connections as per the procedure.
 Now switch corresponding fault switch button in ON condition & observe the different effect onthe output. The faults are normally used one at a time. Put Switch 1 of SF1 in Switch Fault section to ON position. The feedback resistor isbypassed from Amplifiersection. Gainof Amplifiernowdepends on potentiometer P5 only Put switch 2 of SF1 in Switch Fault section to ON position. This will generate twomixedsinewaves, whichcouldbeused as a modulatinginput signal for modulators PAM, PWM and PPM. Put switch 3 of SF1 in Switch Fault section to ON position. This willbypass one filter from filter section. The output consists of ripple with reference to previous output without switch fault. Put switch 4 of SF1 in Switch Fault section to ON position. This provides constant high sampling signal to the sampling switch, which in turn gives natural sampling at the output. Put switch 5 of SF2 in Switch Fault section to ON position. This removes the control signal of first switch of PAM section, this will open pin of CMOS IC. Due to this output will be abrupt or may follow the input.
 
 # BLOCK DIAGRAM:
-<img width="572" height="431" alt="image" src="https://github.com/user-attachments/assets/e29a40de-31a3-4ed8-900b-ce0213c724a6" />
+<img width="572" height="431" alt="image" src="https://github.com/user-attachments/assets/e37a4a9b-f1e4-4982-a2d7-10471e22c0f0" />
+
 
 # Tabulation:
+<img width="1599" height="1128" alt="image" src="https://github.com/user-attachments/assets/346d8eb4-0e03-40a2-9070-565ea5576d00" />
 
 
 # MODEL GRAPH:
-<img width="442" height="598" alt="image" src="https://github.com/user-attachments/assets/842407fb-d354-4f7a-bae4-ba684688dc63" />
+<img width="442" height="598" alt="image" src="https://github.com/user-attachments/assets/bd0462ba-ba05-4db1-9713-b7f91b0b7b0f" />
+
 
 # OUTPUT GRAPH:
-
+<img width="1228" height="1600" alt="image" src="https://github.com/user-attachments/assets/aaceabdc-3fe7-4209-a5c8-71b3132a9ff2" />
 # Result:
 Thus the pulse amplitude modulated and demodulated signals is generated and output is verified.
