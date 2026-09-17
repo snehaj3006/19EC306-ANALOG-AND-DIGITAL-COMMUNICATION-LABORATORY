@@ -24,17 +24,18 @@ b)	Modulation index equal to 1
 c)	Modulation index greater than 1
  
 # BLOCK DIAGRAM:
-<img width="776" height="472" alt="image" src="https://github.com/user-attachments/assets/2b844604-c01b-43bb-a856-a69efadb3714" />
+<img width="776" height="472" alt="image" src="https://github.com/user-attachments/assets/ead1ce68-5c71-44af-9fce-cf706a339a09" />
 
 
 # MODEL GRAPH:
-<img width="613" height="861" alt="image" src="https://github.com/user-attachments/assets/7e0cf327-fb4a-42c2-b4f4-428a3fc274f6" />
+<img width="613" height="861" alt="image" src="https://github.com/user-attachments/assets/e5819a9f-a09f-40f8-8a1e-1602d1d16dc3" />
+
 
 # GRAPH:
-
+<img width="1156" height="1600" alt="image" src="https://github.com/user-attachments/assets/6cda3098-8a3f-42ad-8789-860ba5031847" />
 
 # TABULATION:
-
+<img width="1600" height="1014" alt="image" src="https://github.com/user-attachments/assets/93678192-c1da-4ea3-8be8-40fad6b124eb" />
 
 # RESULT:
 Thus the amplitude modulation and demodulation is experimentally done and the output is verified.
