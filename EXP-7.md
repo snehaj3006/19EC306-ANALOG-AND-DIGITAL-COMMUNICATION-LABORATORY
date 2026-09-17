@@ -24,8 +24,9 @@ code = encode(msg, n, k, 'cyclic');
 msg
 
 code
+
 # ENCODING OUTPUT:
-<img width="473" height="322" alt="image" src="https://github.com/user-attachments/assets/32dee773-48ef-47ea-a1c0-b01f4ff15cf3" />
+<img width="473" height="322" alt="image" src="https://github.com/user-attachments/assets/571bb5be-3842-4bed-b021-54a948745bd4" />
 
 
 # DECODING PROGRAM:
@@ -60,12 +61,13 @@ correctedcode = rem(corrvect + recd, 2);
 
 parmat
 
-correct
+corrvect
 
 correctedcode
 
 # DECODING OUTPUT:
-<img width="415" height="267" alt="image" src="https://github.com/user-attachments/assets/ce1e6214-cb04-444d-be85-f347f8dd1627" />
+<img width="415" height="267" alt="image" src="https://github.com/user-attachments/assets/4bdf9c3c-b276-49f9-a531-421f214b671b" />
+
 
 # RESULT:
 Thus encoding and decoding of block codes are performed using MATLAB.
