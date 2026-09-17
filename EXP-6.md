@@ -24,16 +24,12 @@ s1 = zeros(size(t));
 for i = 1:length(t)
 
     if m(i) == 1
-    
         s1(i) = c1(i);
-        
     else
-    
         s1(i) = c2(i);
-        
     end
-    
 end
+
 
 figure;
 
@@ -78,7 +74,8 @@ ylabel('Amplitude');
 title('BFSK Modulated Output');
 
 # OUTPUT:
-<img width="838" height="608" alt="image" src="https://github.com/user-attachments/assets/1c58c78b-5276-44af-ad21-cee33eb6c871" />
+<img width="838" height="608" alt="image" src="https://github.com/user-attachments/assets/8c5fe1fc-1810-4a35-9bec-eae34d49f19c" />
+
 
 # RESULT:
 Thus, generation of FSK was implemented using MATLAB.
